@@ -1,2 +1,2 @@
 # Notebooks
-This folder contains Jupyter notebooks.
+This folder contains Google Colab notebooks.
